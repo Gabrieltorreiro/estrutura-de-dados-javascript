@@ -93,3 +93,5 @@ class LinkedList {
     }
 
 }
+
+exports.LinkedList = LinkedList;
