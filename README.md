@@ -1,8 +1,8 @@
-# Estrutura de Dados em Javascript
+# Javascript Data Structure
 
-> Esse repositório tem como objetivo implementar algumas estruturas de dados em javascript.
-## Estruturas de Dados:
+> This repository implements data structures in javascript
+## Data Structure:
 * **Linked List**
     * [Linked List](linked-list/)
 
-[Voltar ao topo](#estrutura-de-dados-em-javascript)
+[Back to the Top](#javascript-data-structure)
